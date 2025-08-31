@@ -86,7 +86,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/openink.git
+   git clone https://github.com/garvit811/openink.git
    cd openink
    ```
 2. **Install Dependencies**
