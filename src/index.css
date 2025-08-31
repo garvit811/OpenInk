@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Merienda:wght@300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Playwrite+AU+SA&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --font-family-sans: 'Nunito Sans', sans-serif;
+    --font-family-serif: 'Merienda', serif;
+    --font-family-mono: 'Playwrite AU SA', monospace;
+    --font-family-cursive: 'Caveat', cursive;
+    --font-family-heading: 'Montserrat', sans-serif;
+}
