@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
-import { Container, PostCard } from '../components/index';
-import service from "../appwrite/config";
+import { Container, PostCard } from '../components/index.js';
+import service from "../appwrite/config.js";
 import { useSelector, useDispatch } from 'react-redux';
-import { setPosts, setLoading, setError } from '../store/postSlice';
+import { setPosts, setLoading, setError } from '../store/postSlice.js';
 import { Query, ID } from 'appwrite';
 
 function MyPosts() {

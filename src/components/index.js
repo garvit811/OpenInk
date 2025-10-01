@@ -5,7 +5,7 @@ import Logo from "./logo.jsx";
 import Logout_btn from "./logout_btn.jsx";
 import Button from "./Button.jsx";
 import Input from "./input.jsx";
-import Select from "./select";
+import Select from "./select.jsx";
 import PostCard from "./PostCard.jsx";
 import RTE from './RTE.jsx';
 import Protected from './AuthLayout.jsx'

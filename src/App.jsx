@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
-import { Header, Footer } from './components'
+import { Header, Footer } from './components/index.js'
 import { useDispatch } from 'react-redux'
 import { Outlet } from 'react-router'
-import authService from './appwrite/auth'
-import { login, logout } from './store/authSlice'
+import authService from './appwrite/auth.js'
+import { login, logout } from './store/authSlice.js'
 
 function App() {
   const [loading, setLoading] = useState(true)

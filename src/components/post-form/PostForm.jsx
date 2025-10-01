@@ -1,8 +1,8 @@
 import React, { useCallback, useEffect } from 'react'
-import { RTE, Input, Button, Select } from '../index'
+import { RTE, Input, Button, Select } from '../index.js'
 import { useForm } from 'react-hook-form'
 import { useNavigate } from 'react-router'
-import service from '../../appwrite/config'
+import service from '../../appwrite/config.js'
 import { useSelector } from 'react-redux'
 
 function PostForm({ post }) {

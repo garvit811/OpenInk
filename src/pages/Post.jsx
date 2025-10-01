@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
 import { Link, useNavigate, useParams } from "react-router";
-import service from "../appwrite/config";
-import { Button, Container } from "../components";
+import service from "../appwrite/config.js";
+import { Button, Container } from "../components/index.js";
 import parse from "html-react-parser";
 import { useSelector, useDispatch } from "react-redux";
-import { setSinglePost, clearSinglePost, setLoading, setError } from "../store/postSlice";
+import { setSinglePost, clearSinglePost, setLoading, setError } from "../store/postSlice.js";
 
 export default function Post() {
     const { slug } = useParams();

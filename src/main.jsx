@@ -9,10 +9,10 @@ import Home from './pages/Home.jsx'
 import { Protected as AuthLayout} from './components/index.js'
 
 
-import AddPost from "./pages/AddPost";
+import AddPost from "./pages/AddPost.jsx";
 import Login from './pages/login.jsx'
 import Signup from './pages/signup.jsx'
-import EditPost from "./pages/EditPost";
+import EditPost from "./pages/EditPost.jsx";
 import MyPosts from './pages/MyPosts.jsx'
 
 import Post from "./pages/Post.jsx";

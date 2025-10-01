@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router";
-import { Container, Logout_btn, Logo } from "../index";
+import { Container, Logout_btn, Logo } from "../index.js";
 import { useSelector } from "react-redux";
 import { useNavigate } from "react-router";
 
