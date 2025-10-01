@@ -11,16 +11,6 @@ OpenInk is a sleek and modern blogging platform designed for writers who value s
 
 **[➡️ View Live Demo](https://your-live-demo-link.com)** ---
 
-## 📸 Screenshots
-
-*A quick look at the user interface.*
-
-| Add Post Page | All Posts Page | Sign Up Page |
-| :---: | :---: | :---: |
-| ![Add Post Page](https://i.imgur.com/your-screenshot-1.png) | ![All Posts Page](https://i.imgur.com/your-screenshot-2.png) | ![Sign Up Page](https://i.imgur.com/your-screenshot-3.png) |
-
-> **Note:** Your local image paths (`./src/assets/...`) won't work on GitHub. Upload your screenshots to a service like [Imgur](https://imgur.com/) and replace the links above.
-
 ---
 
 ## 🚀 Key Features
